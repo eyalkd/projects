@@ -25,7 +25,7 @@ window.onload = function()
 function createBoxes()
 {
     var boxHeight = 0;
-
+    var container = document.getElementById("innerContent3")
 
     //box.isopen = true;
 
@@ -34,6 +34,14 @@ function createBoxes()
         var box = new Box();
         //box.rec = document.createElement('div');
         //box.rec.id = 'rec200x200';
-        document.getElementById("innerContent3").appendChild(box.rec);
+        container.appendChild(box.rec);
+
+
     }
+
+    // Adding clear
+    var clear = document.createElement('div');
+    clear.className = "clear";
+    container.appendChild(clear);
+
 }
