@@ -1,0 +1,28 @@
+*
+{
+    margin:0px;
+    padding:0px;
+}
+
+header, section, nav, aside, footer
+{
+    display:block;
+}
+
+.clear
+{
+    clear: both;
+}
+
+body
+{
+    background-image:url("../images/bgr_layout.jpg") ;
+    background-repeat: repeat-x;
+}
+
+#wrapper
+{
+    position: relative;
+    margin: 0px auto;
+    width:1004px;
+}

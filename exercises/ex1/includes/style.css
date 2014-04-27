@@ -1,0 +1,164 @@
+*
+{
+    margin:0px;
+    padding:0px;
+}
+
+header
+{
+    width:1000px;
+    height:97px;
+    background-color: #ffeeee;
+}
+
+header #logo
+{
+    width:200px;
+    height:97px;
+    background-image: url("../images/ynet_logo_200x97.png");
+    float: left;
+    /*display: block;*/
+}
+
+header h1
+{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 40px;
+    color: #886666;
+    text-shadow: 2px 2px #ccaaaa;
+    text-transform: capitalize;
+    padding-top: 20px;
+    padding-left: 250px;
+}
+
+nav
+{
+    width:1000px;
+    height:24px;
+    background-color: #ccaaaa;
+    padding-top: 5px;
+}
+
+nav a
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: lightgray;
+    margin: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    background-image: url("../images/bgr_normal.png");
+    text-decoration: none;
+}
+
+nav a:hover
+{
+    color: #ffff77;
+    text-decoration: underline;
+}
+
+#content
+{
+    width:1000px;
+    height:700px;
+    background-color: #886666;
+    padding-top: 10px;
+}
+
+#content article
+{
+    padding-left: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    padding-right: 10px;
+    width: 500px;
+}
+
+#content article p
+{
+    text-indent: 15px;
+    text-align: justify;
+}
+
+.main_article
+{
+    background-color: #999999;
+}
+
+.main_article h4
+{
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 25px;
+    color: #822d26;
+}
+.main_article p
+{
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 18px;
+
+}
+
+.sub_article_1
+{
+    background-color: #bbbbbb;
+}
+
+.sub_article_1 h4
+{
+
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 20px;
+    color: #822D26;
+}
+.sub_article_1 p
+{
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 14px;
+
+}
+
+.sub_article_2
+{
+    background-color: #dddddd;
+}
+
+.sub_article_2 h4
+{
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 18px;
+    color: #822D26;
+}
+.sub_article_2 p
+{
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 12px;
+
+}
+
+footer
+{
+    padding-top: 10px;
+    width:1000px;
+    height:40px;
+    background-color: #cccccc;
+    text-align: center;
+}
+
+footer a
+{
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 10px;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: #222222;
+}
+
+footer a:hover
+{
+    color: white;
+    text-decoration: underline;
+}
+
+

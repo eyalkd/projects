@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Forms</title>
+</head>
+<body>
+<form action="http://html5-book.co.il/teach/forms/get_form2.php" method="get"
+        autocomplete="on">
+    <h2>Join Our Members Club!</h2>
+    <p><label>
+        Full Name: <input type="text" name="fullName" value="" title="Full Name" placeholder="Your Name">
+    </label></p>
+    <p><label>
+        Password: <input type="password" name="pass" title="Password" placeholder="Password">
+    </label></p>
+    <p><label>
+        Email: <input type="email" name="mail" title="Email" placeholder="example@mail.com">
+    </label></p>
+    <p><label>
+        Your Website: <input type="url" name="website" title="Website" placeholder="http://www.example.com">
+    </label></p>
+    <p><label>
+        Phone: <input type="tel" name="phone" title="Phone Number" placeholder="050-0000000">
+    </label></p>
+    <p><label>
+        How many times you drink coffee a day?: <input type="number" name="coffee" value="2" min="0" max="20" step="1">
+    </label></p>
+    <p><label>
+        What is the temperature now?:
+        0 <input type="range" name="temper" value="25" oninput="tempervalue.value=temper.value" min="0" max="100">
+        100 |
+        <output name="tempervalue" for="temper">25</output>
+    </label></p>
+    <p><label>
+        Address: <textarea name="address" cols="20" rows="5" title="Address" placeholder="Hertzel 5, Tel Aviv"></textarea>
+    </label></p>
+    <fieldset>
+        <legend>Interests: </legend>
+        <label>Reading <input type="checkbox" name="interests[]" value="Reading"><br></label>
+        <label>Television <input type="checkbox" name="interests[]" value="Television"><br></label>
+        <label>Soccer <input type="checkbox" name="interests[]" value="Soccer"></label>
+    </fieldset>
+    <fieldset>
+        <legend>Gender: </legend>
+        <label>Male <input type="radio" name="gender" value="male" checked><br></label>
+        <label>Female <input type="radio" name="gender" value="female"></label>
+    </fieldset>
+    <p><label>Age:
+        <select name="age">
+            <option value="30">30</option>
+            <option value="31">31</option>
+            <option value="32" selected>32</option>
+            <option value="33">33</option>
+            <option value="34">34</option>
+        </select>
+    </label></p>
+    <input type="submit" value="Submit">
+</form>
+</body>
+</html>
