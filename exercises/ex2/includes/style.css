@@ -27,7 +27,7 @@
 
 #header3
 {
-    width: 1004px;
+    width: 100%;
     height: 98px;
     border-bottom: 2px solid #9db9ce;
     background-color: #336b98;
@@ -59,7 +59,8 @@
 
 #nav3
 {
-    width: 1004px;
+    width: 100%;
+    min-width: 500px;
     height: 49px;
     border-bottom: 2px solid #9db9ce;
     background-color: #336b98;
@@ -95,27 +96,16 @@
 
 #content3
 {
-    width: 1004px;
-    height: 1000px;
+    width: 100%;
+    height: 2000px;
     background-color: #336b98;
-
-}
-
-#innerContent31
-{position: absolute;
-    left: 202px;
-    /*width: 600px;position: absolute;*/
-    height: 1000px;
-    background-color: #ff6b98;
-
-    float: left;
+    padding-top: 50px;
 }
 
 #innerContent3
 {
-    background-color: #ff6b98;
-    display: inline;
-    float: left;
+    width: 50%;
+    margin: 0px auto;
 }
 
 #aside1
@@ -152,14 +142,34 @@
     background-color: #ffffff;
 }
 
-#rec200x200
+.rec200x200
 {
     width: 200px;
     height: 200px;
     background-color: #ffffff;
-    border: 2px solid #000000;
+    margin: 23px;
     display: inline;
     float: left;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+.rec200x200click
+{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 246px !important;
+}
+
+.withbackground
+{
+    background: url("../images/bgr_green200x200.jpg") no-repeat;
+}
+
+.withbackgroundclick
+{
+    background: url("../images/bgr_green200x246.jpg") no-repeat !important;
 }
 
 #rec320x70

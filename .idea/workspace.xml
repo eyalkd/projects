@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="977729b7-67bb-4110-9893-233a95c132cd" name="Default" comment="" />
+    <ignored path="Proj1.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Proj1" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.4751704">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="20" column="17" selection-start="449" selection-end="449" vertical-scroll-proportion="0.0" vertical-offset="23" max-vertical-offset="527">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="layout1.html" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/exercises/ex2/layout1.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="14" column="33" selection-start="434" selection-end="434" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="612">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="layout2.html" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/exercises/ex2/layout2.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="14" column="29" selection-start="420" selection-end="420" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="697">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="layout3.html" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/exercises/ex2/layout3.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="20" column="41" selection-start="586" selection-end="586" vertical-scroll-proportion="-10.769231" vertical-offset="60" max-vertical-offset="646">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="test.html" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/exercises/test.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="8" column="9" selection-start="162" selection-end="162" vertical-scroll-proportion="0.24637681" vertical-offset="0" max-vertical-offset="552">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/exercises/ex2/includes/style.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="156" column="0" selection-start="2326" selection-end="2326" vertical-scroll-proportion="3.7941177" vertical-offset="459" max-vertical-offset="3842">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="box.js" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/exercises/ex2/includes/box.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="72" column="0" selection-start="1241" selection-end="1241" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="1581">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/exercises/ex1/includes/style.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="60" column="1" selection-start="920" selection-end="920" vertical-scroll-proportion="0.0" vertical-offset="1020" max-vertical-offset="2890">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/exercises/style.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="17" column="20" selection-start="230" selection-end="230" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="425">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="GlobalStyle.css" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/exercises/ex2/includes/GlobalStyle.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="26" column="15" selection-start="299" selection-end="299" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ex1/index.html" />
+        <option value="$PROJECT_DIR$/ex1/includes/style.css" />
+        <option value="$PROJECT_DIR$/ex2/includes/General_Functions.js" />
+        <option value="$PROJECT_DIR$/ex2/layout.html" />
+        <option value="$PROJECT_DIR$/exercises/ex2/includes/General_Functions.js" />
+        <option value="$PROJECT_DIR$/exercises/ex1/css.html" />
+        <option value="$PROJECT_DIR$/exercises/ex2/layout.html" />
+        <option value="$PROJECT_DIR$/exercises/ex2/includes/layout2.html" />
+        <option value="$PROJECT_DIR$/exercises/ex3/tmp.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/exercises/ex3/forms.html" />
+        <option value="$PROJECT_DIR$/exercises/ex2/layout1.html" />
+        <option value="$PROJECT_DIR$/exercises/ex2/layout2.html" />
+        <option value="$PROJECT_DIR$/exercises/style.css" />
+        <option value="$PROJECT_DIR$/exercises/ex2/includes/GlobalStyle.css" />
+        <option value="$PROJECT_DIR$/exercises/ex2/layout3.html" />
+        <option value="$PROJECT_DIR$/exercises/ex2/includes/box.js" />
+        <option value="$PROJECT_DIR$/exercises/ex2/includes/style.css" />
+        <option value="$PROJECT_DIR$/exercises/test.html" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exercises" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exercises" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ex3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exercises" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ex2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exercises" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ex2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exercises" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ex2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="ex1">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="SearchEverywhereHistory" value="" />
+    <property name="recentsLimit" value="5" />
+    <property name="FullScreen" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="options.lastSelected" value="editor.preferences.completion" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Eyalkd\PhpStorm\projects\exercises\ex2\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Eyalkd\PhpStorm\projects\exercises\ex2" />
+      <recent name="C:\Users\Eyalkd\PhpStorm\projects\exercises\ex2\images" />
+      <recent name="C:\Users\Eyalkd\PhpStorm\projects\exercises" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="fbd804c3-4c5c-4e56-9294-207b809a178a" server_name="html5Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="977729b7-67bb-4110-9893-233a95c132cd" name="Default" comment="" />
+      <created>1394184376617</created>
+      <updated>1394184376617</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12005857" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14128843" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.169279" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34201956" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/exercises/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="20" selection-start="230" selection-end="230" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="425">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/ex2/includes/GlobalStyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="15" selection-start="299" selection-end="299" vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="578">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="17" selection-start="449" selection-end="449" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/ex2/layout1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="33" selection-start="434" selection-end="434" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="612">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/ex2/layout2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="29" selection-start="420" selection-end="420" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="697">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/ex2/layout3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="9" selection-start="534" selection-end="534" vertical-scroll-proportion="0.0" vertical-offset="79" max-vertical-offset="612">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/ex2/includes/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="133" column="17" selection-start="1907" selection-end="1907" vertical-scroll-proportion="0.0" vertical-offset="2261" max-vertical-offset="2805">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/ex2/includes/GlobalStyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="16" selection-start="125" selection-end="125" vertical-scroll-proportion="0.0" vertical-offset="57" max-vertical-offset="561">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/ex2/layout1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="23" selection-start="296" selection-end="296" vertical-scroll-proportion="0.0" vertical-offset="46" max-vertical-offset="612">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/ex2/layout2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="23" selection-start="655" selection-end="655" vertical-scroll-proportion="0.0" vertical-offset="111" max-vertical-offset="697">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="34" selection-start="64" selection-end="64" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="476">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/ex2/includes/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="18" selection-start="276" selection-end="276" vertical-scroll-proportion="0.0" vertical-offset="2193" max-vertical-offset="2805">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/ex2/includes/GlobalStyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="16" selection-start="125" selection-end="125" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="561">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/ex1/includes/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="4" selection-start="606" selection-end="669" vertical-scroll-proportion="0.0" vertical-offset="513" max-vertical-offset="2890">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/ex2/layout1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="23" selection-start="296" selection-end="296" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/ex2/layout2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="23" selection-start="655" selection-end="655" vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="697">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="34" selection-start="64" selection-end="64" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="476">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/ex2/includes/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="18" selection-start="276" selection-end="276" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2805">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/ex2/includes/GlobalStyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="16" selection-start="125" selection-end="125" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="561">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/ex1/includes/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="4" selection-start="606" selection-end="669" vertical-scroll-proportion="0.0" vertical-offset="513" max-vertical-offset="2890">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/ex2/layout1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="23" selection-start="296" selection-end="296" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/ex2/layout2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="30" selection-start="356" selection-end="368" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="697">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="34" selection-start="64" selection-end="64" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="476">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/ex2/includes/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="18" selection-start="276" selection-end="276" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2805">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/ex2/includes/GlobalStyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="16" selection-start="125" selection-end="125" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="561">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/ex1/includes/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="4" selection-start="606" selection-end="669" vertical-scroll-proportion="0.0" vertical-offset="513" max-vertical-offset="2890">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/ex1/includes/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="1" selection-start="447" selection-end="447" vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="2890">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="55" selection-start="361" selection-end="361" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="493">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/ex2/layout1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="39" selection-start="95" selection-end="95" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/ex1/includes/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="1" selection-start="447" selection-end="447" vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="2890">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/ex1/includes/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="1" selection-start="447" selection-end="447" vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="2890">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/ex1/includes/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="1" selection-start="447" selection-end="447" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2890">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/ex1/includes/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="1" selection-start="399" selection-end="399" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2822">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/ex1/includes/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="1" selection-start="399" selection-end="399" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2822">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/ex1/images/bgr_normal.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/ex1/images/ynet_logo_200x97.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/ex2/images/bgr_layout.psd">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/meta.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="23" selection-start="0" selection-end="9380" vertical-scroll-proportion="0.3122449" vertical-offset="0" max-vertical-offset="6290">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/ex3/forms.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="15" selection-start="1809" selection-end="1809" vertical-scroll-proportion="-12.0" vertical-offset="402" max-vertical-offset="1122" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="17" selection-start="449" selection-end="449" vertical-scroll-proportion="0.0" vertical-offset="23" max-vertical-offset="527">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/ex2/includes/General_Functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="2" selection-start="44" selection-end="44" vertical-scroll-proportion="0.035196688" vertical-offset="0" max-vertical-offset="483" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/ex1/css.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="503" selection-end="503" vertical-scroll-proportion="0.5340314" vertical-offset="0" max-vertical-offset="867" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/ex1/includes/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="1" selection-start="920" selection-end="920" vertical-scroll-proportion="0.0" vertical-offset="993" max-vertical-offset="2890">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/ex2/layout1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="33" selection-start="434" selection-end="434" vertical-scroll-proportion="0.0" vertical-offset="39" max-vertical-offset="612">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/ex2/layout2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="29" selection-start="420" selection-end="420" vertical-scroll-proportion="0.0" vertical-offset="124" max-vertical-offset="697">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="20" selection-start="230" selection-end="230" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/ex2/includes/box.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="72" column="0" selection-start="1241" selection-end="1241" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="1581">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/ex2/layout3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="41" selection-start="586" selection-end="586" vertical-scroll-proportion="-10.769231" vertical-offset="60" max-vertical-offset="646">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/ex2/includes/GlobalStyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="15" selection-start="299" selection-end="299" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/ex2/includes/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="156" column="0" selection-start="2326" selection-end="2326" vertical-scroll-proportion="3.7941177" vertical-offset="459" max-vertical-offset="3842">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="9" selection-start="162" selection-end="162" vertical-scroll-proportion="0.24637681" vertical-offset="0" max-vertical-offset="552">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="html5Server">
+    <serverData>
+      <paths name="html5Server">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/dev_22" local="$PROJECT_DIR$" web="2013-2014/html5/dev_22" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
+
